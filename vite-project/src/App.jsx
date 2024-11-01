@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       Hi hello Romy here. Hope you got it!
-      What's up, bro. I'm Mac.
+      <p>Hello I'm Mac</p>
     </>
   )
 }
